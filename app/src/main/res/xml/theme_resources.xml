@@ -2628,7 +2628,6 @@
 	<AppIcon name="de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity" image="nextcloud_news" />
 	<AppIcon name="de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity" image="nina" />
 	<AppIcon name="de.maxdome.app.android/de.maxdome.app.android.clean.routing.RoutingActivity" image="maxdome" />
-	<AppIcon name="de.mbway.app.android/de.mbway.app.android.clean.routing.RoutingActivity" image="mbway" />
 	<AppIcon name="de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" image="mcdonalds" />
 	<AppIcon name="de.meinjena.app/de.stadtwerkejenagruppe.meinjena.ui.activity.SplashScreenActivity" image="meinjena" />
 	<AppIcon name="de.mobileconcepts.cyberghost/de.mobileconcepts.cyberghost.view.home.HomeActivity" image="cyberghost" />
@@ -3074,6 +3073,7 @@
 	<AppIcon name="protect.card_locker/protect.card_locker.MainActivity" image="loyalty_card_keychain" />
 	<AppIcon name="pt.carris.tecmic/md544bae1e541e95037873c54c401f5c006.SplashActivity" image="carris" />
 	<AppIcon name="pt.cgd.caixadirecta/pt.cgd.caixadirecta.SplashActivity" image="caixadirecta" />
+	<AppIcon name="pt.sibs.android.mbway/pt.sibs.android.mbway.mobileui.splash.SplashActivity" image="mbway" />
 	<AppIcon name="radiotime.player/radiotime.player.Main" image="fm_radio" />
 	<AppIcon name="radiotime.player/radiotime.player.TuneInRadioPro" image="fm_radio" />
 	<AppIcon name="radiotime.player/tunein.player.pro.Activity" image="fm_radio" />
