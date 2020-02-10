@@ -2626,7 +2626,6 @@
 	<item class="de.luhmer.owncloudnewsreader/de.luhmer.owncloudnewsreader.NewsReaderListActivity" name="nextcloud_news" />
 	<item class="de.materna.bbk.mobile.app/de.materna.bbk.mobile.app.ui.SplashScreenActivity" name="nina" />
 	<item class="de.maxdome.app.android/de.maxdome.app.android.clean.routing.RoutingActivity" name="maxdome" />
-	<item class="de.mbway.app.android/de.mbway.app.android.clean.routing.RoutingActivity" name="mbway" />
 	<item class="de.mcdonalds.mcdonaldsinfoapp/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity" name="mcdonalds" />
 	<item class="de.meinjena.app/de.stadtwerkejenagruppe.meinjena.ui.activity.SplashScreenActivity" name="meinjena" />
 	<item class="de.mobileconcepts.cyberghost/de.mobileconcepts.cyberghost.view.home.HomeActivity" name="cyberghost" />
@@ -3073,6 +3072,7 @@
 	<item class="protect.card_locker/protect.card_locker.MainActivity" name="loyalty_card_keychain" />
 	<item class="pt.carris.tecmic/md544bae1e541e95037873c54c401f5c006.SplashActivity" name="carris" />
 	<item class="pt.cgd.caixadirecta/pt.cgd.caixadirecta.SplashActivity" name="caixadirecta" />
+	<item class="pt.sibs.android.mbway/pt.sibs.android.mbway.mobileui.splash.SplashActivity" name="mbway" />
 	<item class="radiotime.player/radiotime.player.Main" name="fm_radio" />
 	<item class="radiotime.player/radiotime.player.TuneInRadioPro" name="fm_radio" />
 	<item class="radiotime.player/tunein.player.pro.Activity" name="fm_radio" />
